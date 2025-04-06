@@ -1,0 +1,5 @@
+flet==0.21.2
+flet-core==0.21.2
+pywifi==1.1.12
+colorama==0.4.6
+comtypes==1.2.0
