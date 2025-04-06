@@ -70,3 +70,4 @@ Esta herramienta está diseñada únicamente con fines educativos y de pruebas e
 
 - [Discord](https://discord.gg/4svwzsy3UP)
 - [Canal de YouTube](https://www.youtube.com/@HANNIBAL_H4X)
+- [Tutorial de instalacion](https://youtu.be/PKFAcZj10Ag)
