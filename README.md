@@ -2,6 +2,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4svwzsy3UP)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HANNIBAL_H4X)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HANNIBAL_H4X)
 
 Una herramienta de auditoría WiFi con interfaz gráfica para pruebas de penetración en redes inalámbricas.
 
