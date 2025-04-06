@@ -5,7 +5,7 @@
 
 Una herramienta de auditoría WiFi con interfaz gráfica para pruebas de penetración en redes inalámbricas.
 
-![Captura del programa](screenshots/inicio.png)
+![Captura del programa](img/inicio.png)
 
 ## 🚀 Características
 
