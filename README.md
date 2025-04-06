@@ -14,7 +14,7 @@ Una herramienta de auditoría WiFi con interfaz gráfica para pruebas de penetra
 - Detección automática de interfaces WiFi
 - Escaneo de redes en tiempo real
 - Ataque con diccionario (brute force) para redes WPA/WPA2
-- Consola de logs integrada para ver mas a detalles el proseso
+- Consola de logs integrada para ver mas a detalles del proseso
 - Detección automática cual es la contraseña correcta y te conecta a la red wifi
 
 ## 📋 Requisitos
