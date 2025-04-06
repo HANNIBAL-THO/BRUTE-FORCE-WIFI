@@ -5,7 +5,7 @@
 
 Una herramienta de auditoría WiFi con interfaz gráfica para pruebas de penetración en redes inalámbricas.
 
-![Captura del programa](screenshots/Inicio.png)
+![Captura del programa](screenshots/inicio.png)
 
 ## 🚀 Características
 
@@ -53,13 +53,13 @@ python BRUTE-FORCE-WIFI.py
 
 ## 📸 Capturas de Pantalla
 
-![Interfaz principal](img/Inicio.png)
+![Interfaz principal](img/inicio.png)
 
-![Escaneo de redes](img/Escaneo.png)
+![Escaneo de redes](img/escaneo.png)
 
-![Ataque en proceso](img/Ataque1.png)
+![Ataque en proceso](img/ataque1.png)
 
-![Ataque en proceso](img/Ataque2.png)
+![Ataque en proceso](img/ataque2.png)
 
 ## ⚠️ Aviso Legal
 
