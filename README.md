@@ -27,7 +27,7 @@ Una herramienta de auditoría WiFi con interfaz gráfica para pruebas de penetra
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/tu-usuario/brute-force-wifi.git
+git clone https://github.com/HANNIBAL-THO/BRUTE-FORCE-WIFI.git
 cd brute-force-wifi
 ```
 
